@@ -26,10 +26,10 @@ def pullpin(poem):
 
 
 
-poem = """bayag malaki inutil
-big ddd vagine or
-orton sige"""
+poem = """hotstop beautiful in the
+dence beujrj and baluga
+cute mo boss lol"""
 
-vaga = 'nigga\nhey\nbetlog mo to tho'
+vaga = 'bestie/greatie/insudkjenc'
 
 print(pullpin([poem, vaga]))
